@@ -1,0 +1,8 @@
+baseUrl: $PRIMARY_SITE_URL
+handle: default
+hasUrls: true
+language: en-US
+name: SwimThinks
+primary: true
+siteGroup: bed49f5d-768b-4fea-ba6c-efebf517f7f1 # SwimThinks
+sortOrder: 1

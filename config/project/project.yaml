@@ -1,0 +1,34 @@
+dateModified: 1700574029
+email:
+  fromEmail: evansrobbie@hotmail.com
+  fromName: SwimThinks
+  transportType: craft\mail\transportadapters\Sendmail
+fs:
+  hardDisk:
+    hasUrls: true
+    name: 'Hard Disk'
+    settings:
+      path: '@webroot/uploads/images'
+    type: craft\fs\Local
+    url: '@web/uploads/images'
+meta:
+  __names__:
+    4df6de24-b92b-4c88-b5bc-59447e31a049: 'Hero Image' # Hero Image
+    9f4e2754-8c14-4888-9527-41d9bdd43e25: 'Home Page' # Home Page
+    64b219ec-30b6-44d1-b341-efb17b087c37: Uploads # Uploads
+    bed49f5d-768b-4fea-ba6c-efebf517f7f1: SwimThinks # SwimThinks
+    c76e6e80-45d0-4489-bafe-362fef3ea539: Common # Common
+    cd258741-d930-4050-b8a2-006e3dc92e55: SwimThinks # SwimThinks
+    e8c7bd8e-35b6-4ab9-acbd-0dcd42664936: 'Hero Title' # Hero Title
+system:
+  edition: solo
+  live: true
+  name: SwimThinks
+  schemaVersion: 4.5.3.0
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
